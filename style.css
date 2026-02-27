@@ -1,0 +1,36 @@
+body, html {
+    width: 100%;
+    min-height: 100vh; 
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #7db1ff, #d76de6);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+.card-body{
+    background: #f9e8fc;
+}
+.list-group-item{
+    background: #f9e8fc;
+}
+.card-body h5 {
+    color: #7e2680;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+
+}
+.edit-form {
+    background: #f9e8fc;
+}
+

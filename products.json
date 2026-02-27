@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Şeker Portakalı",
+        "price": 123.00,
+        "author": "Jose Mauro de Vasconcelos",
+        "genre": "Roman",
+        "stock": 1000,
+        "image": "images/seker-portakali.jpg"
+    },
+    {
+        "name": "Doğu Ekspresinde Cinayet",
+        "price": 178.00,
+        "author": "Agatha Christie",
+        "genre": "Polisiye",
+        "stock": 400,
+        "image": "images/dogu-ekspresinde-cinayet.png"
+    },
+    {
+        "name": "Gece Yarısı Kütüphanesi",
+        "price": 154.00,
+        "author": "Matt Haig",
+        "genre": "Roman",
+        "stock": 2000,
+        "image": "images/gece-yarisi-kutuphanesi.jpg"
+    },
+    {
+        "name": "Ben Kirke",
+        "price": 150.00,
+        "author": "Madeline Miller",
+        "genre": "Roman",
+        "stock": 680,
+        "image": "images/ben-kirke.jpg"
+    },
+    {
+        "name": "Serenad",
+        "price": 198.00,
+        "author": "Zülfü Livaneli",
+        "genre": "Roman",
+        "stock": 800,
+        "image": "images/serenad.jpg"
+    },
+    {
+        "name": "Yabancı",
+        "price": 97.00,
+        "author": "Albert Camus",
+        "genre": "Roman",
+        "stock": 1540,
+        "image": "images/yabancı.jpg"
+    },
+    {
+        "name": "Sabahattin Ali - Bütün Şiirleri",
+        "price": 70.00,
+        "author": "Sabahattin Ali",
+        "genre": "Şiir",
+        "stock": 1200,
+        "image": "images/sabahattin.jpg"
+    },
+    {
+        "name": "Çocuk, Köstebek, Tilki ve At",
+        "price": 350.00,
+        "author": "Charlie Mackesy",
+        "genre": "Çocuk Kitabı",
+        "stock": 4562,
+        "image": "images/cocuk.jpg"
+    },
+    {
+        "name": "Sandman 1. Cilt: Prelüdler - Noktürnler",
+        "price": 285.00,
+        "author": "Neil Gaiman",
+        "genre": "Çizgi Roman",
+        "stock": 940,
+        "image": "images/sandman.jpg"
+    },
+    {
+        "name": "Güle Güle Dünya Ben Burda Kalıyorum",
+        "price": 37.00,
+        "author": "Müjdat Gezen",
+        "genre": "Anı",
+        "stock": 1850,
+        "image": "images/gule.jpg"
+    },
+    {
+        "name": "Hayvan Çiftliği",
+        "price": 54.00,
+        "author": "George Orwell",
+        "genre": "Roman",
+        "stock": 540,
+        "image": "images/hayvan.jpg"
+    },
+    {
+        "name": "Hamlet",
+        "price": 35.00,
+        "author": "William Sheakspeare",
+        "genre": "Oyun",
+        "stock": 2010,
+        "image": "images/hamlet.png"
+    },
+    {
+        "name": "2001: Bir Uzay Destanı",
+        "price": 120.00,
+        "author": "Arthur C. Clarke",
+        "genre": "Bilim Kurgu",
+        "stock": 740,
+        "image": "images/2001.jpg"
+    }
+]
